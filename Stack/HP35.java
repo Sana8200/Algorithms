@@ -24,6 +24,7 @@ public class HP35 {
                         stack.push(result);
                         break;
                     }
+
                     // pop two numbers, add and push result break;
                     case '-': {
                         int a = stack.pop();
