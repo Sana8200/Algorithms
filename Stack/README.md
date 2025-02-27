@@ -1,4 +1,4 @@
-# HP35 A calculator using Stack
+## HP35 A calculator using Stack
 
 A stack is a LIFO (Last-In, First-Out) data structure, implemented here with push() and pop() methods.
 
