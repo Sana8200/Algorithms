@@ -36,6 +36,8 @@ public class IterativeBinarySearch {
 
 
 
+    // An example Main method to test the algorithm and checkc the time complexity
+    /*
     public static void main(String[] args) {
         int[] sizes = { 234234, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000, 10000, 100000, 1000000, 64000000};
         Random random = new Random();
@@ -71,5 +73,6 @@ public class IterativeBinarySearch {
             }
         }
     }
+     */
 }
 
