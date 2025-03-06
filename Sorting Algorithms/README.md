@@ -78,6 +78,3 @@ The choice of sorting algorithm depends on the size and nature of the dataset:
 
 Optimized Merge Sort and Quick Sort provide the best performance among the algorithms tested, particularly for large datasets, by minimizing memory operations and offering quick execution times.
 
-
-
-[Assignment4_How_to_sort_things.pdf](https://github.com/user-attachments/files/19101382/Assignment4_How_to_sort_things.pdf)
