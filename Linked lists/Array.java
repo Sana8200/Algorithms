@@ -42,7 +42,7 @@ public class Array {
         // Print the final array
         dynamicArray.print();
 
-        // Print benchmark results
+        //benchmark results
         System.out.println("Time taken to append 10,000 elements: " + (endTime - startTime) + " ns");
     }
 }
