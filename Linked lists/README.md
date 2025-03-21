@@ -1,6 +1,6 @@
 ## Linked lists
 
-### `Linkedlist.java`
+### `LinkedList.java`
 Linked lists are a linear data structure, where we have nodes as elements(or cells
 in this assignment). Each cell contains data and a reference or pointer to the
 next cell (or node) in the sequence. To implementing a linked list, We define a
