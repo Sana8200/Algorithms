@@ -1,4 +1,4 @@
-## Linked lists
+## Linked Lists
 
 ### `LinkedList.java`
 Linked lists are a linear data structure, where we have nodes as elements(or cells
