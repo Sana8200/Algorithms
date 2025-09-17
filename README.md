@@ -1,2 +1,2 @@
 # Algorithms
-Basic and Important Algorithms as one of my course projects 
+Basic and Important Algorithms in Java as one of my course projects 
